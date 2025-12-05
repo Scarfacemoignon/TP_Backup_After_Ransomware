@@ -1,5 +1,5 @@
 # TP_Backup_After_Ransomware
-## Mise en place d’un système de sauvegarde sécurisé pour l’application Ghostfolio avec BorgBackup
+## Ce projet consiste à déployer Ghostfolio, une application open-source de gestion de portefeuille financier, dans un environnement conçu pour être à la fois sécurisé et résilient. L’objectif principal est d’assurer la persistance des données et de mettre en place un système de sauvegarde et de restauration automatisé grâce à BorgBackup, garantissant ainsi la continuité de service en cas d’incident. Le projet inclut également une simulation de ransomware qui compromet la base de données de Ghostfolio et rend l’application indisponible, afin de démontrer la capacité du système à restaurer rapidement les données et à reprendre l’activité.
 
 
 ## Table des matieres
