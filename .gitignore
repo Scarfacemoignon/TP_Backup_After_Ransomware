@@ -1,0 +1,5 @@
+# Fichiers d'environnement
+.env
+
+# Clés SSH du client (contient les clés privées)
+borg-client/ssh-keys/
